@@ -1,1 +1,3 @@
 # DinamicaSistemas-Backend
+Python
+MongoDB 
